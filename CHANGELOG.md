@@ -4,6 +4,10 @@ All notable changes to the "Aro Ace" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.9] - 2025-11-21
+
+- Added: `semanticHighlighting` for AL and set `otherkeyword` to italic
+
 ## [1.2.8] - 2025-11-14
 
 - Changed: `findMatchBackground` to orange for better visibility
